@@ -1,1 +1,1 @@
-# oop_true_lab1_task1
+#### Ioskin Artyom Sergeevich
